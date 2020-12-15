@@ -1,0 +1,31 @@
+2020-05-28 10:31:38,301 :INFO : test_BasicNavigation :Landed on HomePage
+2020-05-28 10:31:45,999 :INFO : test_BasicNavigation :Navigated To Investor Relation Page
+2020-05-28 10:31:45,999 :INFO : test_BasicNavigation :Now clicking on aum Link and navigate to asset under management page.
+2020-05-28 10:31:46,171 :INFO : test_BasicNavigation :Now validating Company logo
+2020-05-28 10:31:48,500 :INFO : test_BasicNavigation :Company logo is present
+2020-05-28 10:31:48,500 :INFO : test_BasicNavigation :Now validating Company information. Scrolling down to about section. 
+2020-05-28 10:31:48,604 :INFO : test_BasicNavigation :Let's check about Company details:   About Invesco Ltd.
+Invesco is a global independent investment management firm dedicated to delivering an investment experience that helps people get more out of life. With offices in 25 countries, our distinctive investment teams deliver a comprehensive range of active, passive and alternative investment capabilities. For more information, visit www.invesco.com/corporate.
+2020-05-28 10:31:48,604 :INFO : test_BasicNavigation :Execution Completed Successfully
+2020-05-28 10:45:14,037 :INFO : test_BasicNavigation :Landed on HomePage
+2020-05-28 10:45:22,339 :INFO : test_BasicNavigation :Navigated To Investor Relation Page
+2020-05-28 10:45:22,339 :INFO : test_BasicNavigation :Now clicking on aum Link and navigate to asset under management page.
+2020-05-28 10:45:22,642 :INFO : test_BasicNavigation :Now validating Company logo
+2020-05-28 10:45:26,021 :INFO : test_BasicNavigation :Company logo is present
+2020-05-28 10:45:26,021 :INFO : test_BasicNavigation :Now validating Company information. Scrolling down to about section. 
+2020-05-28 10:45:26,086 :INFO : test_BasicNavigation :Let's check about Company details:   About Invesco Ltd.
+Invesco is a global independent investment management firm dedicated to delivering an investment experience that helps people get more out of life. With offices in 25 countries, our distinctive investment teams deliver a comprehensive range of active, passive and alternative investment capabilities. For more information, visit www.invesco.com/corporate.
+2020-05-28 10:45:26,086 :INFO : test_BasicNavigation :Execution Completed Successfully
+2020-05-28 19:37:13,127 :INFO : test_basicNavigationToInv :Landed on HomePage
+2020-05-28 19:37:13,139 :INFO : test_basicNavigationToInv :Now navigating to Investor Center in Investor Relation page
+2020-05-28 19:37:13,140 :INFO : test_basicNavigationToInv :Investor relations
+2020-05-28 19:37:13,140 :INFO : test_basicNavigationToInv :Investor center
+2020-05-28 19:37:23,932 :INFO : test_basicNavigationToInv :Navigated To Investor Relation Page
+2020-05-28 19:37:23,932 :INFO : test_basicNavigationToInv :Now clicking on aum Link and navigate to asset under management page.
+2020-05-28 19:37:24,084 :INFO : test_basicNavigationToInv :Now validating Company logo
+2020-05-28 19:37:27,841 :INFO : test_basicNavigationToInv :Company logo is present
+2020-05-28 19:37:27,841 :INFO : test_basicNavigationToInv :Now validating Company information. Scrolling down to about section. 
+2020-05-28 19:37:27,875 :INFO : test_basicNavigationToInv :Let's check about Company details: 
+2020-05-28 19:37:27,911 :INFO : test_basicNavigationToInv :About Invesco Ltd.
+Invesco is a global independent investment management firm dedicated to delivering an investment experience that helps people get more out of life. With offices in 25 countries, our distinctive investment teams deliver a comprehensive range of active, passive and alternative investment capabilities. For more information, visit www.invesco.com/corporate.
+2020-05-28 19:37:27,911 :INFO : test_basicNavigationToInv :Execution Completed Successfully

@@ -1,0 +1,786 @@
+2020-05-30 15:46:30,294 :INFO : test_availableFlights :Landed on Airport :) 
+2020-05-30 15:46:30,294 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-05-30 15:46:30,822 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-05-30 15:46:30,965 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-05-30 15:46:30,965 :INFO : test_availableFlights :Choose From :
+2020-05-30 15:46:32,634 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-05-30 15:46:32,634 :INFO : test_availableFlights :Choose Fly To : 
+2020-05-30 15:46:33,597 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-05-30 15:46:33,597 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-05-30 15:46:34,404 :INFO : test_availableFlights :You have entered Departure Date as  : 30 , May 2020
+2020-05-30 15:46:34,404 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-05-30 15:46:34,918 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-05-30 15:46:34,918 :INFO : test_availableFlights :Click Apply
+2020-05-30 15:46:35,507 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-05-30 15:46:35,507 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-05-30 15:46:38,395 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-05-30 15:46:38,395 :INFO : test_availableFlights :Search is performed! 
+2020-05-30 15:48:55,808 :INFO : test_availableFlights :Landed on Airport :) 
+2020-05-30 15:48:55,808 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-05-30 15:48:56,441 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-05-30 15:48:56,561 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-05-30 15:48:56,561 :INFO : test_availableFlights :Choose From :
+2020-05-30 15:48:58,123 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-05-30 15:48:58,123 :INFO : test_availableFlights :Choose Fly To : 
+2020-05-30 15:48:59,220 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-05-30 15:48:59,220 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-05-30 15:49:00,046 :INFO : test_availableFlights :You have entered Departure Date as  : 30 , May 2020
+2020-05-30 15:49:00,046 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-05-30 15:49:00,571 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-05-30 15:49:00,571 :INFO : test_availableFlights :Click Apply
+2020-05-30 15:49:01,139 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-05-30 15:49:01,139 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-05-30 15:49:03,084 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-05-30 15:49:03,088 :INFO : test_availableFlights :Search is performed! 
+2020-05-30 16:00:01,822 :INFO : test_availableFlights :Landed on Airport :) 
+2020-05-30 16:00:01,822 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-05-30 16:00:02,647 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-05-30 16:00:03,081 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-05-30 16:00:03,081 :INFO : test_availableFlights :Choose From :
+2020-05-30 16:00:04,507 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-05-30 16:00:04,507 :INFO : test_availableFlights :Choose Fly To : 
+2020-05-30 16:00:05,326 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-05-30 16:00:05,326 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-05-30 16:00:06,229 :INFO : test_availableFlights :You have entered Departure Date as  : 30 , May 2020
+2020-05-30 16:00:06,229 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-05-30 16:00:06,722 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-05-30 16:00:06,722 :INFO : test_availableFlights :Click Apply
+2020-05-30 16:00:07,318 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-05-30 16:00:07,318 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-05-30 16:00:09,470 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-05-30 16:00:09,474 :INFO : test_availableFlights :Search is performed! 
+2020-05-30 16:01:09,615 :INFO : test_availableFlights :Landed on Airport :) 
+2020-05-30 16:01:09,615 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-05-30 16:01:10,330 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-05-30 16:01:10,839 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-05-30 16:01:10,839 :INFO : test_availableFlights :Choose From :
+2020-05-30 16:01:12,309 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-05-30 16:01:12,309 :INFO : test_availableFlights :Choose Fly To : 
+2020-05-30 16:01:13,392 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-05-30 16:01:13,392 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-05-30 16:01:14,133 :INFO : test_availableFlights :You have entered Departure Date as  : 30 , May 2020
+2020-05-30 16:01:14,133 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-05-30 16:01:14,576 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-05-30 16:01:14,576 :INFO : test_availableFlights :Click Apply
+2020-05-30 16:01:15,213 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-05-30 16:01:15,213 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-05-30 16:01:17,118 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-05-30 16:01:17,122 :INFO : test_availableFlights :Search is performed! 
+2020-06-01 16:51:05,314 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 16:51:05,334 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 16:51:05,996 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 16:51:06,541 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 16:51:06,541 :INFO : test_availableFlights :Choose From :
+2020-06-01 16:51:08,515 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 16:51:08,515 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 16:51:10,109 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 16:51:10,113 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 16:51:10,725 :INFO : test_availableFlights :You have entered Departure Date as  : 30 , May 2020
+2020-06-01 16:51:10,729 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 16:51:11,174 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 16:51:11,174 :INFO : test_availableFlights :Click Apply
+2020-06-01 16:51:11,735 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 16:51:11,735 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 16:51:15,540 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 16:51:15,548 :INFO : test_availableFlights :Search is performed! 
+2020-06-01 16:55:35,467 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 16:55:35,499 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 16:55:36,221 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 16:55:36,409 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 16:55:36,409 :INFO : test_availableFlights :Choose From :
+2020-06-01 16:55:37,862 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 16:55:37,866 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 16:55:39,008 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 16:55:39,008 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 16:55:39,876 :INFO : test_availableFlights :You have entered Departure Date as  : 03 , June 2020
+2020-06-01 16:55:39,876 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 16:55:40,373 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 16:55:40,373 :INFO : test_availableFlights :Click Apply
+2020-06-01 16:55:41,039 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 16:55:41,039 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 16:56:43,313 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 16:56:43,313 :INFO : test_availableFlights :Search is performed! 
+2020-06-01 17:08:11,590 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 17:08:11,590 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 17:08:12,353 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 17:08:12,561 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 17:08:12,561 :INFO : test_availableFlights :Choose From :
+2020-06-01 17:08:13,941 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 17:08:13,941 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 17:08:15,432 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 17:08:15,432 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 17:08:16,083 :INFO : test_availableFlights :You have entered Departure Date as  : 03 , June 2020
+2020-06-01 17:08:16,083 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 17:08:16,556 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 17:08:16,556 :INFO : test_availableFlights :Click Apply
+2020-06-01 17:08:17,101 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 17:08:17,101 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 17:08:17,286 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 17:08:17,294 :INFO : test_availableFlights :Search is performed! 
+2020-06-01 17:11:15,658 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 17:11:15,658 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 17:11:16,225 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 17:11:16,313 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 17:11:16,313 :INFO : test_availableFlights :Choose From :
+2020-06-01 17:11:18,164 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 17:11:18,164 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 17:11:19,395 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 17:11:19,395 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 17:11:20,169 :INFO : test_availableFlights :You have entered Departure Date as  : 03 , June 2020
+2020-06-01 17:11:20,169 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 17:11:20,594 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 17:11:20,594 :INFO : test_availableFlights :Click Apply
+2020-06-01 17:11:21,165 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 17:11:21,165 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 17:11:39,708 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 17:11:39,712 :INFO : test_availableFlights :Search is performed! 
+2020-06-01 18:17:10,933 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 18:17:10,963 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 18:17:11,666 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 18:17:11,856 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 18:17:11,856 :INFO : test_availableFlights :Choose From :
+2020-06-01 18:17:13,638 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 18:17:13,638 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 18:17:14,400 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 18:17:14,400 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 18:17:15,058 :INFO : test_availableFlights :You have entered Departure Date as  : 03 , June 2020
+2020-06-01 18:17:15,058 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 18:17:15,487 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 18:17:15,487 :INFO : test_availableFlights :Click Apply
+2020-06-01 18:17:16,002 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 18:17:16,002 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 18:17:18,452 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 18:20:00,404 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 18:20:00,405 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 18:20:01,109 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 18:20:01,524 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 18:20:01,525 :INFO : test_availableFlights :Choose From :
+2020-06-01 18:20:03,001 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 18:20:03,001 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 18:20:04,069 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 18:20:04,069 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 18:20:04,843 :INFO : test_availableFlights :You have entered Departure Date as  : 03 , June 2020
+2020-06-01 18:20:04,843 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 18:20:05,338 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 18:20:05,338 :INFO : test_availableFlights :Click Apply
+2020-06-01 18:20:05,856 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 18:20:05,857 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 18:20:11,307 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 18:32:04,387 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 18:32:04,569 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 18:32:05,017 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 18:32:05,479 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 18:32:05,480 :INFO : test_availableFlights :Choose From :
+2020-06-01 18:32:06,859 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 18:32:06,859 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 18:32:07,870 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 18:32:07,870 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 18:39:07,687 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 18:39:07,687 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 18:39:08,331 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 18:39:08,557 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 18:39:08,557 :INFO : test_availableFlights :Choose From :
+2020-06-01 18:39:10,128 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 18:39:10,128 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 18:39:11,422 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 18:39:11,422 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 18:39:13,978 :INFO : test_availableFlights :You have entered Departure Date as  : 04 , June 2020
+2020-06-01 18:39:13,978 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 18:39:14,448 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 18:39:14,449 :INFO : test_availableFlights :Click Apply
+2020-06-01 18:39:14,957 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 18:39:14,957 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 18:39:20,114 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 18:42:21,573 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 18:42:21,573 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 18:42:22,048 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 18:42:22,528 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 18:42:22,528 :INFO : test_availableFlights :Choose From :
+2020-06-01 18:42:23,967 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 18:42:23,968 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 18:42:24,829 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 18:42:24,829 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 18:54:48,598 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 18:54:48,599 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 18:54:48,976 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 18:54:49,367 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 18:54:49,367 :INFO : test_availableFlights :Choose From :
+2020-06-01 18:54:50,682 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 18:54:50,682 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 18:56:48,872 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 18:56:48,872 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 18:56:49,491 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 18:56:49,907 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 18:56:49,908 :INFO : test_availableFlights :Choose From :
+2020-06-01 18:56:51,294 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 18:56:51,294 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 18:56:52,444 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 18:56:52,444 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 18:56:55,152 :INFO : test_availableFlights :You have entered Departure Date as  : 04 , June 2020
+2020-06-01 18:56:55,152 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 18:56:55,637 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 18:56:55,637 :INFO : test_availableFlights :Click Apply
+2020-06-01 18:56:56,157 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 18:56:56,157 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 18:56:58,875 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 19:01:52,854 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 19:01:52,854 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 19:01:53,281 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 19:01:53,387 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 19:01:53,387 :INFO : test_availableFlights :Choose From :
+2020-06-01 19:01:54,926 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 19:01:54,926 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 19:01:56,059 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 19:01:56,060 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 19:01:59,909 :INFO : test_availableFlights :You have entered Departure Date as  : 04 , June 2020
+2020-06-01 19:01:59,909 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 19:02:00,318 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 19:02:00,318 :INFO : test_availableFlights :Click Apply
+2020-06-01 19:02:00,943 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 19:02:00,944 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 19:02:12,097 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 19:42:17,063 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 19:42:17,064 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 19:42:17,802 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 19:42:18,217 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 19:42:18,218 :INFO : test_availableFlights :Choose From :
+2020-06-01 19:42:19,562 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 19:42:19,563 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 19:42:20,459 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 19:42:20,459 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 19:42:22,159 :INFO : test_availableFlights :You have entered Departure Date as  : 04 , June 2020
+2020-06-01 19:42:22,160 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 19:42:22,608 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 19:42:22,608 :INFO : test_availableFlights :Click Apply
+2020-06-01 19:42:23,116 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 19:42:23,116 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 19:42:28,459 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-01 22:19:43,362 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-01 22:19:43,362 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-01 22:19:43,881 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-01 22:19:44,276 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-01 22:19:44,276 :INFO : test_availableFlights :Choose From :
+2020-06-01 22:19:45,888 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-01 22:19:45,888 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-01 22:19:47,175 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-01 22:19:47,175 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-01 22:20:25,480 :INFO : test_availableFlights :You have entered Departure Date as  : 04 , June 2020
+2020-06-01 22:20:25,480 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-01 22:20:26,215 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-01 22:20:26,215 :INFO : test_availableFlights :Click Apply
+2020-06-01 22:20:27,048 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-01 22:20:27,052 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-01 22:20:29,066 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 11:14:32,030 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:14:32,102 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:14:33,195 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:14:33,490 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:14:33,491 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:14:35,762 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:14:35,762 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:14:36,768 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:14:36,769 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 11:14:40,152 :INFO : test_availableFlights :You have entered Departure Date as  : 04 , June 2020
+2020-06-02 11:14:40,152 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 11:14:40,584 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 11:14:40,584 :INFO : test_availableFlights :Click Apply
+2020-06-02 11:14:41,097 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 11:14:41,098 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 11:14:45,052 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 11:22:12,530 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:22:12,530 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:22:12,975 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:22:13,165 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:22:13,166 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:22:14,706 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:22:14,707 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:22:15,798 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:22:15,798 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 11:22:19,389 :INFO : test_availableFlights :You have entered Departure Date as  : 04 , June 2020
+2020-06-02 11:22:19,389 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 11:22:19,832 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 11:22:19,832 :INFO : test_availableFlights :Click Apply
+2020-06-02 11:22:20,386 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 11:22:20,386 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 11:22:22,520 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 11:23:49,511 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:23:49,512 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:23:50,167 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:23:50,378 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:23:50,378 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:23:51,944 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:23:51,944 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:23:52,953 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:23:52,953 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 11:23:53,926 :INFO : test_availableFlights :You have entered Departure Date as  : 4 , June 2020
+2020-06-02 11:23:53,927 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 11:23:54,467 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 11:23:54,468 :INFO : test_availableFlights :Click Apply
+2020-06-02 11:23:55,004 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 11:23:55,005 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 11:23:59,949 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 11:25:34,411 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:25:34,412 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:25:35,061 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:25:35,462 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:25:35,462 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:25:36,681 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:25:36,681 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:25:37,823 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:25:37,824 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 11:27:10,106 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:27:10,106 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:27:10,668 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:27:11,065 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:27:11,065 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:27:12,309 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:27:12,309 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:27:13,431 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:27:13,431 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 11:27:14,728 :INFO : test_availableFlights :You have entered Departure Date as  : 4 , August 2020
+2020-06-02 11:27:14,728 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 11:27:15,269 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 11:27:15,269 :INFO : test_availableFlights :Click Apply
+2020-06-02 11:27:15,891 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 11:27:15,891 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 11:27:18,692 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 11:28:21,811 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:28:21,813 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:28:22,424 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:28:22,804 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:28:22,805 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:28:23,984 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:28:23,984 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:28:24,988 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:28:24,988 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 11:32:25,799 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:32:25,800 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:32:26,390 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:32:26,835 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:32:26,836 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:32:28,349 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:32:28,349 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:32:29,460 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:32:29,460 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 11:32:30,750 :INFO : test_availableFlights :You have entered Departure Date as  : 4 , July 2020
+2020-06-02 11:32:30,751 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 11:32:31,242 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 11:32:31,242 :INFO : test_availableFlights :Click Apply
+2020-06-02 11:32:31,836 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 11:32:31,836 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 11:32:33,948 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 11:51:29,729 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:51:29,730 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:51:30,208 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:51:30,662 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:51:30,663 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:51:31,941 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:51:31,942 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:52:46,404 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:52:46,404 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:52:47,078 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:52:47,480 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:52:47,480 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:52:48,743 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:52:48,743 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:53:34,947 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:53:34,947 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:53:35,635 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:53:36,113 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:53:36,113 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:53:37,460 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:53:37,461 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:53:38,667 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:53:38,667 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 11:54:11,944 :INFO : test_availableFlights :You have entered Departure Date as  : 3 , June 2020
+2020-06-02 11:54:11,944 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 11:54:12,361 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 11:54:12,361 :INFO : test_availableFlights :Click Apply
+2020-06-02 11:54:12,888 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 11:54:12,888 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 11:54:14,700 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 11:56:54,684 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 11:56:54,685 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 11:56:55,069 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 11:56:55,303 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 11:56:55,303 :INFO : test_availableFlights :Choose From :
+2020-06-02 11:56:56,848 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 11:56:56,848 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 11:56:58,040 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 11:56:58,041 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:04:16,206 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:04:16,207 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:04:16,639 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:04:16,837 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:04:16,837 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:04:18,255 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 12:04:18,255 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 12:04:19,359 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 12:04:19,361 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:04:52,392 :INFO : test_availableFlights :You have entered Departure Date as  : 3 , June 2020
+2020-06-02 12:04:52,392 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 12:04:52,856 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 12:04:52,857 :INFO : test_availableFlights :Click Apply
+2020-06-02 12:04:53,370 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 12:04:53,370 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 12:04:55,674 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 12:10:12,824 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:10:12,824 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:11:39,488 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:11:39,500 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:11:39,932 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:11:40,052 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:11:40,052 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:11:41,616 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 12:11:41,616 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 12:11:42,824 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 12:11:42,824 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:15:39,506 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:15:39,506 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:16:55,375 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:16:55,375 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:18:23,842 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:18:23,842 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:18:26,943 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:18:27,223 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:18:27,227 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:21:32,944 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:21:32,944 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:21:34,142 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:21:34,908 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:21:34,912 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:21:36,930 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 12:21:36,930 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 12:21:39,043 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 12:21:39,043 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:26:17,228 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:26:17,228 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:26:17,784 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:26:18,211 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:26:18,211 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:26:19,546 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 12:26:19,546 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 12:26:21,129 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 12:26:21,129 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:27:03,301 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:27:03,305 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:27:03,901 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:27:04,333 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:27:04,333 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:27:05,986 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 12:27:05,986 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 12:27:07,044 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 12:27:07,044 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:33:44,523 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:33:44,523 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:33:44,944 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:33:45,840 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:33:45,840 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:33:47,154 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 12:33:47,154 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 12:33:48,428 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 12:33:48,432 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:33:50,066 :INFO : test_availableFlights :You have entered Departure Date as  : 3 , June 2020
+2020-06-02 12:33:50,066 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 12:33:50,623 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 12:33:50,623 :INFO : test_availableFlights :Click Apply
+2020-06-02 12:33:51,182 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 12:33:51,182 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 12:33:53,315 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 12:35:24,145 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:35:24,145 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:35:24,863 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:35:25,132 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:35:25,132 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:35:26,724 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 12:35:26,724 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 12:35:28,001 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 12:35:28,005 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:35:29,611 :INFO : test_availableFlights :You have entered Departure Date as  : 1 , June 2020
+2020-06-02 12:35:29,611 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 12:35:30,069 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 12:35:30,069 :INFO : test_availableFlights :Click Apply
+2020-06-02 12:35:30,606 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 12:35:30,606 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 12:35:33,144 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 12:38:27,796 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 12:38:27,800 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 12:38:28,344 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 12:38:28,807 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 12:38:28,811 :INFO : test_availableFlights :Choose From :
+2020-06-02 12:38:30,268 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 12:38:30,268 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 12:38:31,764 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 12:38:31,764 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 12:38:33,332 :INFO : test_availableFlights :You have entered Departure Date as  : 6 , June 2020
+2020-06-02 12:38:33,332 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 12:38:33,786 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 12:38:33,786 :INFO : test_availableFlights :Click Apply
+2020-06-02 12:38:34,349 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 12:38:34,349 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 12:38:36,903 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 13:33:57,287 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 13:33:57,291 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 13:34:00,906 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 13:34:03,284 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 13:34:03,284 :INFO : test_availableFlights :Choose From :
+2020-06-02 13:34:08,057 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 13:34:08,057 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 13:34:11,096 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 13:34:11,096 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 13:34:17,315 :INFO : test_availableFlights :You have entered Departure Date as  : 6 , June 2020
+2020-06-02 13:34:17,315 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 13:34:19,396 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 13:34:19,396 :INFO : test_availableFlights :Click Apply
+2020-06-02 13:34:21,557 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 13:34:21,557 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 13:34:35,852 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 13:36:10,175 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 13:36:10,179 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 13:36:13,708 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 13:36:16,030 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 13:36:16,030 :INFO : test_availableFlights :Choose From :
+2020-06-02 13:36:20,970 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 13:36:20,974 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 13:36:24,294 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 13:36:24,294 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 13:36:34,860 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-02 13:36:34,860 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 13:36:36,839 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 13:36:36,839 :INFO : test_availableFlights :Click Apply
+2020-06-02 13:36:39,461 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 13:36:39,461 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 13:36:49,946 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 14:17:03,380 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 14:17:03,381 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 14:17:04,041 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 14:17:04,533 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 14:17:04,533 :INFO : test_availableFlights :Choose From :
+2020-06-02 14:17:05,916 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 14:17:05,916 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 14:17:07,326 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 14:17:07,327 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 14:17:11,503 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-02 14:17:11,504 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 14:17:12,007 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 14:17:12,007 :INFO : test_availableFlights :Click Apply
+2020-06-02 14:17:12,588 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 14:17:12,588 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 14:17:14,943 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 14:20:56,225 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 14:20:56,226 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 14:20:57,274 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 14:20:57,898 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 14:20:57,898 :INFO : test_availableFlights :Choose From :
+2020-06-02 14:20:59,322 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 14:20:59,323 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 14:21:00,686 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 14:21:00,686 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 14:21:04,064 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-02 14:21:04,064 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 14:21:04,564 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 14:21:04,564 :INFO : test_availableFlights :Click Apply
+2020-06-02 14:21:05,173 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 14:21:05,174 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 14:21:07,122 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 14:21:31,798 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 14:21:31,799 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 14:21:32,338 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 14:21:32,788 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 14:21:32,789 :INFO : test_availableFlights :Choose From :
+2020-06-02 14:21:34,465 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 14:21:34,465 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 14:21:35,813 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 14:21:35,813 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 14:21:39,947 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-02 14:21:39,947 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 14:21:40,460 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 14:21:40,460 :INFO : test_availableFlights :Click Apply
+2020-06-02 14:21:41,058 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 14:21:41,058 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 14:21:43,314 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 15:03:22,081 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 15:03:22,081 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 15:03:22,722 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 15:03:22,965 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 15:03:22,965 :INFO : test_availableFlights :Choose From :
+2020-06-02 15:03:24,566 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 15:03:24,567 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 15:03:25,848 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 15:03:25,848 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 15:03:29,802 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-02 15:03:29,802 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 15:03:30,320 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 15:03:30,321 :INFO : test_availableFlights :Click Apply
+2020-06-02 15:03:30,917 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 15:03:30,918 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 15:03:33,518 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 15:05:44,260 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 15:05:44,260 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 15:05:44,827 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 15:05:44,977 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 15:05:44,978 :INFO : test_availableFlights :Choose From :
+2020-06-02 15:05:46,686 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 15:05:46,686 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 15:05:47,728 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 15:05:47,728 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 15:05:51,847 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-02 15:05:51,848 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 15:05:52,309 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 15:05:52,309 :INFO : test_availableFlights :Click Apply
+2020-06-02 15:05:52,803 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 15:05:52,803 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 15:05:54,987 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 15:13:03,112 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 15:13:03,112 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 15:13:03,641 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 15:13:04,102 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 15:13:04,102 :INFO : test_availableFlights :Choose From :
+2020-06-02 15:13:05,533 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 15:13:05,533 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 15:13:06,549 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 15:13:06,549 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-02 15:13:10,674 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-02 15:13:10,674 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-02 15:13:11,175 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-02 15:13:11,175 :INFO : test_availableFlights :Click Apply
+2020-06-02 15:13:11,752 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-02 15:13:11,753 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-02 15:13:14,243 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-02 15:28:17,165 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 15:28:17,165 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 15:28:17,778 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 15:28:18,331 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 15:28:18,331 :INFO : test_availableFlights :Choose From :
+2020-06-02 15:28:19,689 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 15:28:19,689 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 15:29:44,028 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 15:29:44,028 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 15:36:47,746 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-02 15:36:47,747 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-02 15:36:48,716 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-02 15:36:48,998 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-02 15:36:48,999 :INFO : test_availableFlights :Choose From :
+2020-06-02 15:36:50,465 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-02 15:36:50,466 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-02 15:36:51,654 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-02 15:36:51,654 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-04 14:16:38,514 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-04 14:16:38,566 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-04 14:16:38,918 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-04 14:16:39,066 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-04 14:16:39,070 :INFO : test_availableFlights :Choose From :
+2020-06-04 14:16:41,139 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-04 14:16:41,139 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-04 14:16:42,399 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-04 14:16:42,399 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-04 14:16:46,217 :INFO : test_availableFlights :You have entered Departure Date as  : 4 , June 2020
+2020-06-04 14:16:46,217 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-04 14:16:46,668 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-04 14:16:46,668 :INFO : test_availableFlights :Click Apply
+2020-06-04 14:16:47,206 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-04 14:16:47,206 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-04 14:16:49,322 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-04 14:59:16,550 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-04 14:59:16,574 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-04 14:59:17,701 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-04 14:59:18,672 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-04 14:59:18,672 :INFO : test_availableFlights :Choose From :
+2020-06-04 14:59:20,188 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-04 14:59:20,188 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-04 14:59:21,386 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-04 14:59:21,386 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-04 14:59:24,382 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-04 14:59:24,382 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-04 14:59:24,846 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-04 14:59:24,846 :INFO : test_availableFlights :Click Apply
+2020-06-04 14:59:25,389 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-04 14:59:25,389 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-04 14:59:30,283 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-04 15:04:30,707 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-04 15:04:30,711 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-04 15:04:31,406 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-04 15:04:31,897 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-04 15:04:31,897 :INFO : test_availableFlights :Choose From :
+2020-06-04 15:04:33,317 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-04 15:04:33,317 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-04 15:04:34,414 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-04 15:04:34,414 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-04 15:04:37,854 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-04 15:04:37,854 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-04 15:04:38,329 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-04 15:04:38,329 :INFO : test_availableFlights :Click Apply
+2020-06-04 15:04:38,883 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-04 15:04:38,883 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-04 15:04:40,930 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-04 15:09:12,661 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-04 15:09:12,661 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-04 15:09:13,267 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-04 15:09:13,706 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-04 15:09:13,706 :INFO : test_availableFlights :Choose From :
+2020-06-04 15:09:15,290 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-04 15:09:15,290 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-04 15:10:03,954 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-04 15:10:03,954 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-04 15:10:04,583 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-04 15:10:05,064 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-04 15:10:05,064 :INFO : test_availableFlights :Choose From :
+2020-06-04 15:10:06,540 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-04 15:10:06,540 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-04 15:10:07,589 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-04 15:10:07,589 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-04 15:10:10,569 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-04 15:10:10,573 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-04 15:10:11,044 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-04 15:10:11,044 :INFO : test_availableFlights :Click Apply
+2020-06-04 15:10:11,577 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-04 15:10:11,577 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-04 15:10:17,427 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-04 15:13:48,832 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-04 15:13:48,832 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-04 15:13:49,387 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-04 15:13:49,813 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-04 15:13:49,813 :INFO : test_availableFlights :Choose From :
+2020-06-04 15:13:51,316 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-04 15:13:51,316 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-04 15:13:52,682 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-04 15:13:52,682 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-04 15:13:55,653 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-04 15:13:55,653 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-04 15:13:56,141 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-04 15:13:56,145 :INFO : test_availableFlights :Click Apply
+2020-06-04 15:13:56,697 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-04 15:13:56,697 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-04 15:13:58,460 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-06-04 15:17:08,449 :INFO : test_availableFlights :Landed on Airport :) 
+2020-06-04 15:17:08,449 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-06-04 15:17:09,102 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-06-04 15:17:09,590 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-06-04 15:17:09,590 :INFO : test_availableFlights :Choose From :
+2020-06-04 15:17:10,900 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-06-04 15:17:10,900 :INFO : test_availableFlights :Choose Fly To : 
+2020-06-04 15:17:12,128 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-06-04 15:17:12,128 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-06-04 15:17:15,082 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-06-04 15:17:15,082 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-06-04 15:17:15,592 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-06-04 15:17:15,592 :INFO : test_availableFlights :Click Apply
+2020-06-04 15:17:16,085 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-06-04 15:17:16,085 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-06-04 15:17:18,857 :INFO : test_availableFlights :Make my trip is searching available flights for you !
+2020-11-23 10:17:54,771 :INFO : test_availableFlights :Landed on Airport :) 
+2020-11-23 10:17:54,956 :INFO : test_availableFlights :Clicking on Aeroplane Icon, flights
+2020-11-23 10:17:55,663 :INFO : test_availableFlights :Select Trip Type : Oneway, Round Trip Or MultyCity
+2020-11-23 10:17:55,863 :INFO : test_availableFlights :Selected Trip Type is : Oneway
+2020-11-23 10:17:55,863 :INFO : test_availableFlights :Choose From :
+2020-11-23 10:17:57,504 :INFO : test_availableFlights :From :  selected Departure City is Pune, India
+2020-11-23 10:17:57,504 :INFO : test_availableFlights :Choose Fly To : 
+2020-11-23 10:17:58,689 :INFO : test_availableFlights :To :  selected Destination City  is Kolkata, India
+2020-11-23 10:17:58,689 :INFO : test_availableFlights :Click Departure to decide the day of travel : 
+2020-11-23 10:17:59,656 :INFO : test_availableFlights :You have entered Departure Date as  : 2 , June 2020
+2020-11-23 10:17:59,656 :INFO : test_availableFlights :Click Traveller Class   :  Choose no. of Adults,children or infants and also to select Class 
+2020-11-23 10:18:00,051 :INFO : test_availableFlights :2 adults are looking for available flights.
+2020-11-23 10:18:00,051 :INFO : test_availableFlights :Click Apply
+2020-11-23 10:18:00,535 :INFO : test_availableFlights :Traveller has chosen Regular Fare option.
+2020-11-23 10:18:00,535 :INFO : test_availableFlights :Now Click SEARCH  to check for available flight on this route.
+2020-11-23 10:18:08,943 :INFO : test_availableFlights :Make my trip is searching available flights for you !
